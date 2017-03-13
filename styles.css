@@ -1,0 +1,60 @@
+
+div {
+	background-color: rgb(104,178,91);
+	width: 500px;
+    height: 300px;
+    padding-top: 100px;
+    padding-left: 200px;
+    margin-left: 100px;
+}
+#add {
+	background-color: rgb(133,192,123);
+	width:60px;
+	height:80px;
+	margin-top: 25px;
+    margin-left: 10px;
+    font-size: 50px;
+}
+#sub {
+	background-color: rgb(133,192,123);
+	width:60px;
+	height:80px;
+	margin-top: 25px;
+    margin-left: 10px;
+    font-size: 50px;
+}
+#multiply {
+	background-color: rgb(133,192,123);
+	width:60px;
+	height:80px;
+	margin-top: 25px;
+    margin-left: 10px;
+    font-size: 50px;
+}
+
+#divide {
+	background-color: rgb(133,192,123);
+	width:60px;
+	height:80px;
+	margin-top: 25px;
+    margin-left: 10px;
+    font-size: 50px;
+}
+#value1{
+	width: 90px;
+    height: 100px;
+    font-size: 20px;
+
+}
+#value2{
+	width: 90px;
+    height: 100px;
+    font-size: 20px;
+
+}
+#answer{
+	width: 90px;
+    height: 100px;
+    font-size: 20px;
+
+}
